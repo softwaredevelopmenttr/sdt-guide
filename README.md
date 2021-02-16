@@ -29,13 +29,12 @@ Bizi biz yapan topluluk üyelerimize, her şeyden çok önem veriyoruz. Köklü 
 ## 🛡 **MODERASYON EKİBİ** 🛡 
 ```
 $ npx sdtr --list-crew
-
+Owner - Damla Köksal
 Owner - Doğancan Koç
 Owner - Ömer Ayyıldız
 Moderator - Abdullah Şahin
 Moderator - Ahmet İbrahim Aksoy
 Moderator - Akif Feyzioğlu
-Moderator - Damla Köksal
 Moderator - Malik Masis
 Moderator - Önder Bakırtaş
 
