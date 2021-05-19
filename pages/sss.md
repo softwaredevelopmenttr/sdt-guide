@@ -67,3 +67,13 @@ Sohbete dahil olmak istiyorum ama çok fazla kişi var ve çekiniyorum. Ne yapab
 
 ### **Cevap:**
 Muhabbete dahil olmaktan çekinmemeni öneririz. Üyelerimiz yeni gelen üyelerle tanışmayı çok sever. Merhaba diyerek SDTR ailenin parçası olabilirsin :)
+
+---
+
+## **Soru 9:**
+Benim neden rolüm yok?
+
+### **Cevap:**
+Yetkili arkadaşlar senin sunucu içerisindeki aktivitene bağlı olarak sana uygun rolleri zamanla elle verecektir. Herhangi bir "level" veya "xp"ye bağlı olarak rol verilmemektedir.
+
+Roller hakkında daha fazla bilgi edinmek için: [sdtr-hierarchy](sdtr-hierarchy)
