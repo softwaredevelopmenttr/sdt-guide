@@ -13,3 +13,7 @@ Bu kategoride bulunan kanallar sayesinde SDTR ailesiyle sosyalleşebilirsin.
 **#music-archive:** Beğendiğin müzikleri bu kanalda paylaşmakta özgürsün.
 
 **#sdtr-stories:** Etkinliklerden kesitleri, üyelerin çalışma ortamlarını, capsleri ve üyeler tarafından çekilen komik ekran resimlerini burada bulabilirsin. Rahatsız olduğun görselleri moderatörlere iletebilirsin.
+
+**#starboard:** Bu kanalda üyeler tarafından "yıldızlanan" mesajları bulabilirsin. Bu kanalı pinleme özelliğini bir alternatif olarak düşünebilirsin.
+
+**#movie-advice:** Beğendiğin filmlerin IMDb bağlantılarını buraya paylaşabilirsin.
