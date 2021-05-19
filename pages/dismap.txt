@@ -26,10 +26,12 @@
     |- #music-archive
     |- #sdtr-medium
     |- #sdtr-stories
+    |- #starboard
+    |- #movie-advice
 
 **SDTR LAB**
     |- #bot-channel
-    |- #niko-channel
+    |- #chill-chat
     |- #lab-chat
 
 **SDTR GAME LAB**
@@ -54,6 +56,8 @@
     |- #10_node-ffont
     |- #11_storken
     |- #12_midi-parser
+    |- #13_foxql
+    |- #sinestezi
 
 **PROGRAMMING LANGUAGES**
     |- #computer-science
