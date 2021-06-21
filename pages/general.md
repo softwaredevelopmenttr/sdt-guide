@@ -18,6 +18,8 @@ Kaydını yaptıktan sonra karşına birçok kanal çıkacak. Her kanal bir ama�
  
 **#business:** Bu kanalda ekibin veya firman için iş ilanı paylaşabilir veya paylaşılan ilanlara göz atabilirsin. Bu kanal ilan doğruluğu sağlamak için sürekli denetlenmektedir. Lütfen bilgileri eksiksiz paylaşmaya özen göster.
 
+**#streams:** Yazılım alanında yararlı Twitch yayınları yapan kanalların anlık yayın bildirimlerini burada paylaşıyoruz.
+
 **Yeni Kural:** Kanala ilanını paylaşabilmen için `#contact` kanalından moderatörlere ulaşman gerekiyor.
 
 **#freelance:** Master Developer rolüne sahip üyelerimiz bu kanalda yakın zamanda açılan UpWork ilanlarını paylaşıyor. Çoğunlukla "çerez" olarak görebileceğin işleri burada bulabilirsin.
