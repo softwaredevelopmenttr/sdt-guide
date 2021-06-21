@@ -15,6 +15,7 @@
     |- #code-review
     |- #project-intro
     |- #business
+    |- #streams
     |- #freelance
     |- #featured-servers
     |- #meeting
@@ -44,20 +45,20 @@
 
 **MEMBER PROJECTS**
     |- #00_source-pocket
-    |- #01_pnmlinux
-    |- #02_synator
-    |- #03_kubepwd
-    |- #04_beginner-git
-    |- #05_af-downloader
-    |- #06_docker-notes
-    |- #07_webos
-    |- #08_akilli-dijital-avukatim
-    |- #09_invoice-printer
-    |- #10_node-ffont
-    |- #11_storken
-    |- #12_midi-parser
-    |- #13_foxql
-    |- #sinestezi
+    |- #01_beginner-git
+    |- #02_af-downloader
+    |- #03_docker-notes
+    |- #04_webos
+    |- #05_akilli-dijital-avukatim
+    |- #06_invoice-printer
+    |- #07_node-ffont
+    |- #08_storken
+    |- #09_midi-parser
+    |- #10_financor
+    |- #11_foxql
+    |- #12_sinestezi
+    |- #13_teresa
+    |- #14_tr-spam-calls
 
 **PROGRAMMING LANGUAGES**
     |- #computer-science
