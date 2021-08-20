@@ -22,6 +22,7 @@
     |- #social-media
 
 **SDTR SOCIAL**
+    |- #anime-chat
     |- #cryptocurrencies
     |- #github-feed
     |- #music-archive
@@ -37,6 +38,9 @@
 
 **SDTR GAME LAB**
     |- #game-chat
+
+**SDTR CINEMA LAB**
+    |- #discussion
 
 **SDTR ACTIVITY**
     |- #activity-plan-board
@@ -59,6 +63,7 @@
     |- #12_sinestezi
     |- #13_teresa
     |- #14_tr-spam-calls
+    |- #15_msage
 
 **PROGRAMMING LANGUAGES**
     |- #computer-science
