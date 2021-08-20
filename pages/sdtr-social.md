@@ -4,6 +4,8 @@
 
 Bu kategoride bulunan kanallar sayesinde SDTR ailesiyle sosyalleşebilirsin.
 
+**#anime-chat:** Bu kanalda anime ve mangalar üzerine sohbet edebilir ve tartışabilirsin. Bu tür özel bir kanal oluşturmak için, yeterli sayıda kullanıcının bulunması gerekir.
+
 **#cryptocurrencies:** Kripto para borsası ve bağlantılı birçok konu hakkında burada tartışma başlatabilir, yatırım tavsiyesi almayabilirsin. :)
 
 **#sdtr-medium:** Medium sayfamızda paylaşılan yazıları burada herkesin göreceği şekilde paylaşıyoruz.
